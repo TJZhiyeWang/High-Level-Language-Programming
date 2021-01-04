@@ -1,0 +1,22 @@
+﻿生成启动时间为 2017/11/19 11:37:28。
+     1>项目“E:\homework\important\高级程序设计作业\Project17\Project17\Project17.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "90-b1-base.cpp" "90-b1-console.cpp" "90-b1-tools.cpp" cmd_console_tools.cpp "90-b1-main.cpp"
+         90-b1-main.cpp
+         cmd_console_tools.cpp
+         90-b1-tools.cpp
+         90-b1-console.cpp
+         90-b1-base.cpp
+         正在生成代码...
+       Link:
+         D:\vs2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\homework\important\高级程序设计作业\Project17\Debug\Project17.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\homework\important\高级程序设计作业\Project17\Debug\Project17.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\homework\important\高级程序设计作业\Project17\Debug\Project17.lib" /MACHINE:X86 "Debug\90-b1-base.obj"
+         "Debug\90-b1-console.obj"
+         "Debug\90-b1-tools.obj"
+         Debug\cmd_console_tools.obj
+         "Debug\90-b1-main.obj"
+         Project17.vcxproj -> E:\homework\important\高级程序设计作业\Project17\Debug\Project17.exe
+     1>已完成生成项目“E:\homework\important\高级程序设计作业\Project17\Project17\Project17.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:05.38

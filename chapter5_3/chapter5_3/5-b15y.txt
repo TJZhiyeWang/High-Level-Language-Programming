@@ -1,0 +1,41 @@
+
+15 3 3 3 3
+R2ZV2\sCy}s=v;8
+Qh)Z17<de_0xm~W
+1=55fG|"(JgFkd"
+6oX)0*VKgvz7\#Y
+$4IZI?4y;cEu<9m
+c}iWpqO8x4U(:#4
+57[KeZ;z"IvaGx8
+3D1x`'}a"1$CRIn
+9&q0=Vl6a=&<CcX
+~"?i00QExUa7Gk,
+//正确
+
+
+16 2 2 2 2
+RpO/N.@m6!$(i;YA
+<474qOAzQ4t*92Y,
+d48Msq,3YZcGO\l_
+3PzQ_>mb\jV?1NQr
+;ws6sJYws,P5Vn<G
+obihF<Tt9Ec76`Pn
+FD[$D94wUsl`wvX\
+C96K(LGDgs^8v+Yk
+t_L-qyxEW@8:<TP6
+|1/]rVRoD8k1q-@L
+//错误
+
+
+14 2 3 5 2
+79u{23HpM8e'{G
+\Jb6v&29z6Q8\i
+,3tL6Z1)l90)[w
+1~NjQZ3a23+04f
+7dyb9h22L3F{2?
+c28[9VS~Ow"3e1
+]%z%9hnQ6M'462
+W,1wM_23b45Qlx
+%/21Fa~bY686af
+C\,A0~52fG16ja
+//正确
